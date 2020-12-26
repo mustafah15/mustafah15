@@ -1,11 +1,11 @@
 ### Hi there 👋, I am Mustafa Hussain!
 ###### *Software Engineer*
 
-A Software Engineer with industry experience building web services. Specializing in Backend development with Node.js, PHP, GCP. 
+A Software Engineer with industry experience building web services. Specializing in Backend development with Node.js, PHP. 
 
 * Backend: NodeJS, PHP, Docker.
 * Databases: Mongodb, Mysql.
-* Cloud Computing: GCP, Kubernetes.
+* Cloud Computing: (GCP, Kubernetes), (AWS, Lambda).
 * CI/CD: Github Actions, CircleCI.
 
 
