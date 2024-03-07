@@ -3,7 +3,7 @@
 
 A Software Engineer with industry experience building web services. Specializing in Backend development with Node.js, PHP. 
 
-* Backend: NodeJS, PHP.
+* Backend: NodeJS, PHP, and recently Go
 * Databases: Mongodb, Elasticsearch, Mysql.
 * Cloud Computing: (GCP, Docker ,Kubernetes), (AWS, Lambda).
 * CI/CD: Github Actions, CircleCI.
