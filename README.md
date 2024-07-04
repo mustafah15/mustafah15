@@ -6,7 +6,7 @@ A Software Engineer with industry experience building web services. Specializing
 * Backend: NodeJS, PHP, and recently Go
 * Databases: Mongodb, Elasticsearch, Mysql.
 * Cloud Computing: (GCP, Docker ,Kubernetes), (AWS, Lambda).
-* CI/CD: Github Actions, CircleCI.
+* CI/CD: Github Actions, GitlabCI.
 
 
 ### You can also find me on
